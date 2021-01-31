@@ -8,7 +8,7 @@
             {
                 Name : "Jbl Speaker",
                 Price :"5000",
-                Photo : "../images/JBL Speaker.jpg"
+                Photo : "./images/JBL Speaker.jpg"
             },
             {
                 Name :"Earpod",
@@ -61,7 +61,7 @@
                 Photo : "./images/Lee Cooper.jpg"
             },
             {
-                Name :"Addidas",
+                Name :"Adidas",
                 Price :"2499",
                 Photo : "./images/Adidas.jpg"
             },
